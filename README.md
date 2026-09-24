@@ -19,3 +19,15 @@ My LeetCode problem solutions.
 [Geeks-For-Geeks](https://github.com/santosmita-sahoo/Geeks-For-Geeks)
 
 My GeeksForGeeks coding solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santosmita-sahoo/Coding-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/santosmita-sahoo/Coding-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
