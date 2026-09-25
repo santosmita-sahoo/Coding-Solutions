@@ -41,6 +41,7 @@ My GeeksForGeeks coding solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/santosmita-sahoo/Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/santosmita-sahoo/Coding-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/santosmita-sahoo/Coding-Solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
